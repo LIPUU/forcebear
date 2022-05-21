@@ -5,7 +5,7 @@ An custom leading characters Ethereum address (for cool or gas saving) generator
   
 Usage:  
   `-l`, bip0039 support, 12 or 24 mnemonic，default is 12.  
-  `-s`, --leading-chars <LEADING_CHARS>, default is 0000  
+  `-s`, default is 0000  
   
 screenshot:  
   ![image](https://user-images.githubusercontent.com/32829983/169659558-25e437d5-6778-4865-9dbc-36d4243291b2.png)  
